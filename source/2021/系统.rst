@@ -4,4 +4,4 @@
 你好，
 --------
 
-.. image:: test1.jpg
+.. image:: ../images/test2.jpg
