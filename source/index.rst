@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 智慧园区's documentation!
+智慧园区
 ====================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 内容:
 
    2021/系统
 
